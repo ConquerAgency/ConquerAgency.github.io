@@ -196,6 +196,7 @@
     }
     .showcase-1{
         max-width: 425px;
+        height: 574px;
     }
 
     .tn span{
@@ -363,6 +364,9 @@
         width: 80px;
         margin-top: -10px; 
         margin-left: -25px;
+    }
+     .showcase-1{ 
+        height: 574px;
     }
     .video-container{
         height: 574px;
